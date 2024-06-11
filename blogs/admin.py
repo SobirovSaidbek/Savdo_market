@@ -1,4 +1,7 @@
+#django own imports
 from django.contrib import admin
+
+#blogs own imports
 from blogs.models import BlogCategoryModel, AuthorModel, BlogModel, BlogTagModel
 
 
